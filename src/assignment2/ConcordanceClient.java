@@ -68,7 +68,6 @@ public class ConcordanceClient
             
       } while (another);
              
-      //The code is not working well for the first word in each document. fix.
 
    }
              
